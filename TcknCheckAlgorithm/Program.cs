@@ -6,6 +6,7 @@ namespace TcknCheckAlgorithm
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("TcknCheckAlgorithm made by furkanaltaca | v2.0");
             Console.WriteLine("Press Ctrl+C to exit");
             Console.WriteLine();
 

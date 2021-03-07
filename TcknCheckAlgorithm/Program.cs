@@ -12,7 +12,7 @@ namespace TcknCheckAlgorithm
 
             while (true)
             {
-                Console.Write("TC Kimlik numarasınu giriniz: ");
+                Console.Write("TC Kimlik No: ");
 
                 if (CheckTckn(Console.ReadLine()))
                 {
